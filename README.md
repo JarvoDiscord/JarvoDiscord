@@ -28,8 +28,8 @@ And many more
 #
 
 ### Public Projects
-[Simple-v14-Discord.js-Bot](https://github.com/JarvoDiscord/Simple-v14-Discord.js-Bot)
-[World Of Coding Weather Bot](https://github.com/World-of-Coding)
+- [Simple-v14-Discord.js-Bot](https://github.com/JarvoDiscord/Simple-v14-Discord.js-Bot)
+- [World Of Coding Weather Bot](https://github.com/World-of-Coding)
 
 #
 
