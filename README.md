@@ -17,7 +17,6 @@ Need help with some coding, feel free to ask me on Discord: `Jarvo#0001`
 ### Coding Languages
 - JavaScript
 - HTML
-- CSS
 
 #
 
