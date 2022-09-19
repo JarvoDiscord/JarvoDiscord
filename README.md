@@ -24,3 +24,10 @@ Need help with some coding, feel free to ask me on Discord: `Jarvo#0001`
 ### NPM's I use to make bots
 - Discord.js
 And many more
+
+#
+
+### Buy Me A Coffee
+I could really need some.
+<br>
+You can buy me a cup of coffee [here](https://www.buymeacoffee.com/jarvodiscord)
