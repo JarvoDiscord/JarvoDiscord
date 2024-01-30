@@ -5,7 +5,7 @@ Need a little help with coding your own bot?
 <br>
 No worries, I made a [Simple v14 Discord.js Bot](https://github.com/JarvoDiscord/Simple-v14-Discord.js-Bot) for you to freely copy and edit your own!
 <br>
-Need help with some coding, feel free to ask me on Discord: `Jarvo#0001`
+Need help with some coding, feel free to ask me on Discord: `jarvo01`
 
 #
 
