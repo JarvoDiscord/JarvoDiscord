@@ -10,7 +10,7 @@ Need help with some coding, feel free to ask me on Discord: `jarvo01`
 #
 
 ### 📊 Github Stats
-[![JarvoDiscord's GitHub stats](https://github-readme-stats.vercel.app/api?username=JarvoDiscord&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/api?username=JarvoDiscord&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![JarvoDiscord's GitHub stats](https://github-readme-stats.vercel.app/api?username=JarvoDiscord&show_icons=true&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github-readme-stats.vercel.app/api?username=JarvoDiscord&show_icons=true&theme=onedark)
 
 #
 
